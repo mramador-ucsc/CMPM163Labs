@@ -30,10 +30,10 @@
         uniform sampler2D texture5;
         varying vec2 vUv;
         void main() {
-            gl_FragColor = texture2D(texture5, vUv*2.0);
+            vec2 vUv2 = vec2(mod(vUv, .5));
+            gl_FragColor = texture2D(texture5, vUv2*2.0);
         }
         </script>
-
     <script>
         // setup the scene
         var scene = new THREE.Scene();
