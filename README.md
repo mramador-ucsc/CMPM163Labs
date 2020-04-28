@@ -16,7 +16,7 @@ Bottom Right This is a cube with a custom shader I replicated from three.js's ex
 
 
 # Lab4 #
-Video of 5 cubes:
+Video of 5 cubes: https://drive.google.com/file/d/1IUZpSGQmlQ-0Frh-dWswYHBtayl2oqdU/view?usp=sharing
 
 How I made Each cube:
 Top Left: I took a texture from the google drive and tiled it by using the modulo operator on the x and y axis of the vec2 variable.
