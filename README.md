@@ -35,5 +35,3 @@ You take the V value and multiply it by 8 since the uv value is between 0 and 1 
 
 What color is sampled from the texture at the uv coordinate (0.375, 0.25)? (sample from the image based on the number your formula gives you i.e. (1, 0) (x, y) is blue)
 Answer: White
-
-How 
