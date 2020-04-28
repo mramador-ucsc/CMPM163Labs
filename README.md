@@ -18,9 +18,9 @@ Bottom Right This is a cube with a custom shader I replicated from three.js's ex
 # Lab4 #
 Video of 5 cubes:
 
-How I made Each cube:
-Top Left: I took a texture from the google drive and tiled it by using the modulo operator on the x and y axis of the vec2 variable.
-Top Right: Part 2 Texture C (load this texture with shaders, as we worked through in the lab together)
+How I made Each cube: https://drive.google.com/file/d/1IUZpSGQmlQ-0Frh-dWswYHBtayl2oqdU/view?usp=sharing
+
+Top Left: I took a texture from the google drive and tiled it by using the modulo operator on the x and y axis of the vec2 variable.  Top Right: Part 2 Texture C (load this texture with shaders, as we worked through in the lab together)
 Bottom Left: Part 1 Texture A & Normal Map A (uses three.js built in texture functionality)
 Bottom Middle: Part 1 Texture A (uses three.js built in texture functionality)
 Bottom Right: Part 1 Texture B & Normal Map B (new texture/normal map combo using built in three.js functionality)
