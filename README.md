@@ -35,3 +35,9 @@ You take the V value and multiply it by 8 since the uv value is between 0 and 1 
 
 What color is sampled from the texture at the uv coordinate (0.375, 0.25)? (sample from the image based on the number your formula gives you i.e. (1, 0) (x, y) is blue)
 Answer: White
+
+# Lab4 #
+Video to Game Mods: https://drive.google.com/file/d/1QRvNvQ5SsFjtddSGidN6IkXbAOkUq21b/view?usp=sharing
+
+Modifications I made:
+I followed several tutorials to add particle effects to the wheels of the karts and anytime the kart collides into the walls green particles come flying out and bounces the player back. I also added a trigger on the start/end line where when the player crosses, confetti particle effects shoot out from both sides. Lastly, I added two boost pads in the beginning of the game that doubles the player's top speed and acceleration.
