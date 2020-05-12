@@ -41,3 +41,9 @@ Video to Game Mods: https://drive.google.com/file/d/1QRvNvQ5SsFjtddSGidN6IkXbAOk
 
 Modifications I made:
 I followed several tutorials to add particle effects to the wheels of the karts and anytime the kart collides into the walls green particles come flying out and bounces the player back. I also added a trigger on the start/end line where when the player crosses, confetti particle effects shoot out from both sides. Lastly, I added two boost pads in the beginning of the game that doubles the player's top speed and acceleration.
+
+
+# Lab6 #
+Screenshot of my texture with the corrected aspect ratio:
+Link to my Assignment: https://www.shadertoy.com/view/WsBfRR
+Link to something cool I found: https://www.shadertoy.com/view/XdlSDs
