@@ -45,5 +45,6 @@ I followed several tutorials to add particle effects to the wheels of the karts 
 
 # Lab6 #
 Screenshot of my texture with the corrected aspect ratio:
+![](Screenshot%20(51).png)
 Link to my Assignment: https://www.shadertoy.com/view/WsBfRR
 Link to something cool I found: https://www.shadertoy.com/view/XdlSDs
