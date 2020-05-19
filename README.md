@@ -18,9 +18,9 @@ Bottom Right This is a cube with a custom shader I replicated from three.js's ex
 # Lab4 #
 Video of 5 cubes: https://drive.google.com/file/d/1IUZpSGQmlQ-0Frh-dWswYHBtayl2oqdU/view?usp=sharing
 
-How I made Each cube:
-Top Left: I took a texture from the google drive and tiled it by using the modulo operator on the x and y axis of the vec2 variable.
-Top Right: Part 2 Texture C (load this texture with shaders, as we worked through in the lab together)
+How I made Each cube: https://drive.google.com/file/d/1IUZpSGQmlQ-0Frh-dWswYHBtayl2oqdU/view?usp=sharing
+
+Top Left: I took a texture from the google drive and tiled it by using the modulo operator on the x and y axis of the vec2 variable.  Top Right: Part 2 Texture C (load this texture with shaders, as we worked through in the lab together)
 Bottom Left: Part 1 Texture A & Normal Map A (uses three.js built in texture functionality)
 Bottom Middle: Part 1 Texture A (uses three.js built in texture functionality)
 Bottom Right: Part 1 Texture B & Normal Map B (new texture/normal map combo using built in three.js functionality)
@@ -35,3 +35,16 @@ You take the V value and multiply it by 8 since the uv value is between 0 and 1 
 
 What color is sampled from the texture at the uv coordinate (0.375, 0.25)? (sample from the image based on the number your formula gives you i.e. (1, 0) (x, y) is blue)
 Answer: White
+
+# Lab5 #
+Video to Game Mods: https://drive.google.com/file/d/1QRvNvQ5SsFjtddSGidN6IkXbAOkUq21b/view?usp=sharing
+
+Modifications I made:
+I followed several tutorials to add particle effects to the wheels of the karts and anytime the kart collides into the walls green particles come flying out and bounces the player back. I also added a trigger on the start/end line where when the player crosses, confetti particle effects shoot out from both sides. Lastly, I added two boost pads in the beginning of the game that doubles the player's top speed and acceleration.
+
+
+# Lab6 #
+Screenshot of my texture with the corrected aspect ratio:
+![](Screenshot%20(51).png)
+Link to my Assignment: https://www.shadertoy.com/view/WsBfRR
+Link to something cool I found: https://www.shadertoy.com/view/XdlSDs
