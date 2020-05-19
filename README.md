@@ -50,7 +50,9 @@ Link to my Assignment: https://www.shadertoy.com/view/WsBfRR
 Link to something cool I found: https://www.shadertoy.com/view/XdlSDs
 
 # Lab7 #
-Part 1: A screenshot of your terrain with the height map as the texture
+Part 1: A screenshot of your terrain with the height map as the texture 
+![](Screenshot%20(53).png)
 Part 1b: A screenshot of your terrain with a different texture as the texture
+![](Screenshot%20(52).png)
 Part 2: Water Scene: https://drive.google.com/file/d/1fio3CRu5FhdnGozinvaaHGftcuWPeWSF/view?usp=sharing
 Part 3: Mountain + Water Scene https://drive.google.com/file/d/1EGt9pfJHz_iiemwQauYeSNFnkjaNlrLv/view?usp=sharing
