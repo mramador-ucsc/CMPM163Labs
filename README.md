@@ -57,4 +57,6 @@ Part 1b: A screenshot of your terrain with a different texture as the texture
 Part 2: Water Scene: https://drive.google.com/file/d/1fio3CRu5FhdnGozinvaaHGftcuWPeWSF/view?usp=sharing
 Part 3: Mountain + Water Scene https://drive.google.com/file/d/1EGt9pfJHz_iiemwQauYeSNFnkjaNlrLv/view?usp=sharing
 
+I made my mountains with a height map I found online and attached it to a plane with a rocky texture on it. I then took the water plane we made in part 2 and positioned it to run through the lowest part of my rocky plane to make it seem like water is flowing down a river.
+
 My partner for lab 7 made a cool mountain landscape that had pillars separated by flowing water between them. It looked like a flooded collapsed mountainscape. My partner worked in Unity while I worked with Three.js. Therefore, we did not help each other with our work.
