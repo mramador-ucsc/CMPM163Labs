@@ -60,3 +60,20 @@ Part 3: Mountain + Water Scene https://drive.google.com/file/d/1EGt9pfJHz_iiemwQ
 I made my mountains with a height map I found online and attached it to a plane with a rocky texture on it. I then took the water plane we made in part 2 and positioned it to run through the lowest part of my rocky plane to make it seem like water is flowing down a river.
 
 My partner for lab 7 made a cool mountain landscape that had pillars separated by flowing water between them. It looked like a flooded collapsed mountainscape. My partner worked in Unity while I worked with Three.js. Therefore, we did not help each other with our work.
+
+# Lab8 #
+An image of a virtual/real city that inspired your generated city: 
+![](Venice.jpg)
+![](naruto.jpg)
+A screenshot or video of your generated city: 
+https://drive.google.com/file/d/1vDyo46l9Jc_j9ZFT2H8dyimIXr2USLqU/view?usp=sharing
+An explanation of how the inspiration city affected your generated city’s design: 
+
+I wanted to make a flooded city that is split down the middle kinda like the flooded Venice picture above. I also was inspired to put two giant statues on top of the city like the naruto statues above.
+
+Which part did they do?: My partner did the Unity side of the lab.
+Which part of a tutorial did your partner find most challenging?: "I found the Creative part the most challenging" is what my partner stated.
+Which part of a tutorial did your partner find most interesting?: I found the explanation on seeding the most interesting
+
+My partner and I did not help each other for this lab.
+
